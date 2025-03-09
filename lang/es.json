@@ -284,6 +284,8 @@
     "Please enter your email address": "Por favor, introduzca su dirección de correo",
     "Please enter your password": "Por favor, introduzca su contraseña",
     "Forgot your password? No problem. Just let us know your email address and we will send you a password reset link that will allow you to choose a new one.": "¿Olvidó su contraseña? No hay problema. Simplemente déjenos saber su dirección de correo electrónico y le enviaremos un enlace para restablecer la contraseña que le permitirá elegir una nueva.",
-    "Return to Admin Login": "Volver a Iniciar sesión de Administrador"
+    "Return to Admin Login": "Volver a Iniciar sesión de Administrador",
+
+    "Learning Platform": "Plataforma de aprendizaje"
     
 }
