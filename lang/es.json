@@ -286,6 +286,17 @@
     "Forgot your password? No problem. Just let us know your email address and we will send you a password reset link that will allow you to choose a new one.": "¿Olvidó su contraseña? No hay problema. Simplemente déjenos saber su dirección de correo electrónico y le enviaremos un enlace para restablecer la contraseña que le permitirá elegir una nueva.",
     "Return to Admin Login": "Volver a Iniciar sesión de Administrador",
 
-    "Learning Platform": "Plataforma de aprendizaje"
+    "Learning Platform": "Plataforma de aprendizaje",
+    "Categories": "Categorías",
+    "Language": "Idioma",
+    "About": "Sobre nosotros",
+    "Courses": "Cursos",
+    "Courses details": "Detalles de los cursos",
+    "Course video": "Video del curso",
+    "Pages": "Páginas",
+    "Contact": "Contacto",
+    "Do not have an account?": "¿No tienes una cuenta?",
+    "Create an account": "Crear una cuenta",
+    "Return home": "Regresar al Inicio"
     
 }

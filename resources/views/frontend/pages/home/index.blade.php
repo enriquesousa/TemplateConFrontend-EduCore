@@ -5,7 +5,7 @@
 @include('frontend.pages.home.sections.hero-section')
 
 <!--=== CATEGORY SECTION ===-->
-{{-- @include('frontend.pages.home.sections.category-section') --}}
+@include('frontend.pages.home.sections.category-section')
 
 <!--=== ABOUT SECTION ===-->
 {{-- @include('frontend.pages.home.sections.about-section') --}}

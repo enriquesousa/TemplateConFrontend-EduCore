@@ -29,6 +29,8 @@
         <div class="flex items-center justify-center w-full transition-opacity opacity-100 duration-750">
             <img src="{{ asset('images/logo-small-TJweb-normal.svg') }}" width="100" height="100" alt="Tabler">
         </div>
+
+        {{-- Titulo y Subtitulo --}}
         <div class="flex items-center justify-center w-full transition-opacity opacity-100 duration-750">
             <h1 class="text-2xl font-bold text-[#1b1b18] dark:text-[#EDEDEC]">Template con Frontend Edu-Core</h1> 
         </div>

@@ -30,4 +30,12 @@
     "editor.fontFamily": "Fira Code",
     "editor.fontSize": 15,
     "editor.fontLigatures": true,
+    "squarl.bookmarks": [
+        {
+            "name": "welcome.blade.php",
+            "path": "resources/views/welcome.blade.php",
+            "description": "welcome.blade.php",
+            "type": "file"
+        }
+    ],
 }

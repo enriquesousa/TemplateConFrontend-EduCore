@@ -36,6 +36,9 @@
     <link rel="stylesheet" href="{{ asset('frontend/assets/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('frontend/assets/css/responsive.css') }}">
 
+    {{-- Bootstrap Icons fonts --}}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    
     {{-- Custom css --}}
     @vite(['resources/css/frontend.css'])
 
@@ -66,17 +69,13 @@
     @include('frontend.layouts.footer')
 
 
-    <!--================================
-        SCROLL BUTTON START
-    =================================-->
+    <!-- SCROLL BUTTON START -->
     <div class="progress-wrap">
         <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
             <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
         </svg>
     </div>
-    <!--================================
-        SCROLL BUTTON END
-    =================================-->
+    <!-- SCROLL BUTTON END -->
 
 
     <!--jquery library js-->
